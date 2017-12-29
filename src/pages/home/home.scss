@@ -1,3 +1,10 @@
 page-home {
-
+.block{
+    position: relative;
+    .deleteIcon{
+        position: absolute;
+        margin-left: 98%;
+        color: white;
+    }
+}
 }
